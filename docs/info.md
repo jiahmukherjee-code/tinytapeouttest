@@ -8,11 +8,11 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
+AND, NAND and OR gates are connected to input a and b
 Explain how your project works
 
 ## How to test
-
+Set the inputs and check the outputs match witht the exepcted results 
 Explain how to use your project
 
 ## External hardware
